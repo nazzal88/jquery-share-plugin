@@ -5,3 +5,5 @@ Get share buttons for your website visitors to share content on Facebook and twi
  
  when user make select for text the social icons will appear for share the selected content on facebook and twitter.
  
+ <img src="http://www.menacircle.com/uploads/Gallery_637116611406682553_Capture.PNG" />
+ 
