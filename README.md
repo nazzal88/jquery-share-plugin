@@ -7,3 +7,5 @@ Get share buttons for your website visitors to share content on Facebook and twi
  
  <img src="http://www.menacircle.com/uploads/Gallery_637116611406682553_Capture.PNG" />
  
+ Artical : http://www.menacircle.com/read-post/94/share-content-by-select-text-jquery-plugin
+ 
