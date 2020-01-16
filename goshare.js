@@ -16,7 +16,8 @@
 
         $('#goshare-translate').click(function () {
             var selection = getSelected();
-            window.open('https://translate.google.com/#auto/ar/' + selection, '_blank');
+            var targetLang = (navigator.browserLanguage || navigator.language || navigator.userLanguage).match(/^(zh-)?\w+/g);
+            window.open('https://translate.google.com/#auto/' + targetLang + '/' + selection, '_blank');
             HideGoShar();
             return false;
         });
